@@ -1,0 +1,14 @@
+C:\systems\private\win-highlights-catcher\bin\Release\win-highlights-catcher.exe.config
+C:\systems\private\win-highlights-catcher\bin\Release\win-highlights-catcher.exe
+C:\systems\private\win-highlights-catcher\bin\Release\win-highlights-catcher.pdb
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.csproj.CoreCompileInputs.cache
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.exe
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.pdb
+C:\systems\private\win-highlights-catcher\bin\Release\Newtonsoft.Json.dll
+C:\systems\private\win-highlights-catcher\bin\Release\Newtonsoft.Json.xml
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.csprojAssemblyReference.cache
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.csproj.CopyComplete
+C:\systems\private\win-highlights-catcher\bin\Release\win-highlights-catcher.exe.manifest
+C:\systems\private\win-highlights-catcher\bin\Release\win-highlights-catcher.application
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.exe.manifest
+C:\systems\private\win-highlights-catcher\obj\Release\win-highlights-catcher.application
