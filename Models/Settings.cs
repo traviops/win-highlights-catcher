@@ -7,6 +7,7 @@ namespace win_highlights_catcher.Models
         [JsonProperty("AUTO_START")]
         public int AutoStart { get; set; }
 
+        [JsonIgnore]
         public bool IsAutoStartEnabled
         {
             get
