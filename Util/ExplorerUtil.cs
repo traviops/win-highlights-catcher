@@ -44,11 +44,13 @@ namespace win_highlights_catcher.Util
                     {
                         try
                         {
-                            var currTime = DateTime.Now.ToString("yyyy-MM-dd_hh-mm-ss");
+                            var currTime = DateTime.Now.ToString("yyyy-MM-dd_hh-mm-ss-ffff");
 
                             ExportDirUtil.ValidateExportDirectory();
 
-                            File.Copy(file, Path.Combine(ExportDirUtil.ExportDirectory, string.Format(Constants.EXPORT_FILE_NAME, currTime)), true);
+                            var destFileName = Path.Combine(ExportDirUtil.ExportDirectory, string.Format(Constants.EXPORT_FILE_NAME, currTime));
+
+                            File.Copy(file, destFileName, true);
                         }
                         catch (Exception ex)
                         {

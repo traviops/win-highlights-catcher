@@ -1,7 +1,6 @@
 C:\systems\private\win-highlights-catcher\bin\Debug\win-highlights-catcher.exe.config
 C:\systems\private\win-highlights-catcher\bin\Debug\win-highlights-catcher.exe
 C:\systems\private\win-highlights-catcher\bin\Debug\win-highlights-catcher.pdb
-C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.csprojAssemblyReference.cache
 C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.csproj.CoreCompileInputs.cache
 C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.exe
 C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.pdb
@@ -23,3 +22,9 @@ D:\systems\win-highlights-catcher\obj\Debug\win-highlights-catcher.application
 D:\systems\win-highlights-catcher\obj\Debug\win-highlights-catcher.csproj.CopyComplete
 D:\systems\win-highlights-catcher\obj\Debug\win-highlights-catcher.exe
 D:\systems\win-highlights-catcher\obj\Debug\win-highlights-catcher.pdb
+C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.csproj.AssemblyReference.cache
+C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.csproj.SuggestedBindingRedirects.cache
+C:\systems\private\win-highlights-catcher\bin\Debug\win-highlights-catcher.exe.manifest
+C:\systems\private\win-highlights-catcher\bin\Debug\win-highlights-catcher.application
+C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.exe.manifest
+C:\systems\private\win-highlights-catcher\obj\Debug\win-highlights-catcher.application
